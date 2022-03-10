@@ -4,7 +4,7 @@ import javax.lang.model.util.ElementScanner14;
 
 import java.io.*;
 
- public class Act2 
+ public class Scorecard 
 {
 private String teamname;
 private String innings;
