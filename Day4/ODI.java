@@ -1,4 +1,4 @@
-package Day_4Activity;
+package Day4;
 
 public class ODI extends Match {
 
